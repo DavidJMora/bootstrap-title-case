@@ -4,5 +4,13 @@
 }
 
 #titlecase {
-    color: green;
+    color: royalblue;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    border: 1px solid black;
 }
